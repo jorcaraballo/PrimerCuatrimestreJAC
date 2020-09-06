@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1599169490 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\eje1\eje1.c
+	<stdio.h>
+	<stdlib.h>
+
+1599233828 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\eje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599224798 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\eje1\eje2.c
+
+1599257885 c:\users\jorge\documents\curso programacion\primercuatrimestrejac\eje1\funciones.h
+	<stdio.h>
+
+1599234058 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\eje1\funciones.c
+	"funciones.h"
+
