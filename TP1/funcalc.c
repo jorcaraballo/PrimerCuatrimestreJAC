@@ -1,32 +1,32 @@
 #include "funcalc.h"
 
-int SumarNumeros(int primerNumero, int segundoNumero)
+float SumarNumeros(float primerNumero, float segundoNumero)
 {
-    int suma;
+    float suma;
     suma = primerNumero + segundoNumero;
     return suma;
 }
-int RestarNumeros(int primerNumero, int segundoNumero)
+float RestarNumeros(float primerNumero, float segundoNumero)
 {
-    int restar;
+    float restar;
     restar = primerNumero - segundoNumero;
     return restar;
 }
-int MultiplicarNumeros(int primerNumero, int segundoNumero)
+float MultiplicarNumeros(float primerNumero, float segundoNumero)
 {
-    int multiplicar;
+    float multiplicar;
     multiplicar = primerNumero * segundoNumero;
     return multiplicar;
 }
-float DividirNumeros(int primerNumero, int segundoNumero)
+float DividirNumeros(float primerNumero, float segundoNumero)
 {
     float dividir;
     dividir = (float)primerNumero / segundoNumero;
     return dividir;
 }
-int CalcularFactorial(int numero)
+float CalcularFactorial(float numero)
 {
-    int factorial;
+    float factorial;
     if(numero == 0)
     {
         factorial = 1;

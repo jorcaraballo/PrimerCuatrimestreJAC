@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1599360144 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\tp1\funcalc.c
+1599590478 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\tp1\funcalc.c
 	"funcalc.h"
 
-1599360023 c:\users\jorge\documents\curso programacion\primercuatrimestrejac\tp1\funcalc.h
+1599862778 c:\users\jorge\documents\curso programacion\primercuatrimestrejac\tp1\funcalc.h
 	<stdio.h>
 
-1599359991 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\tp1\main.c
+1599598040 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\tp1\main.c
 	<stdio.h>
 	<stdlib.h>
 	"funcalc.h"

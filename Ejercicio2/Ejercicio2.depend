@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599594200 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\ejercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1599594199 c:\users\jorge\documents\curso programacion\primercuatrimestrejac\ejercicio2\input.h
+

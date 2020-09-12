@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1599850819 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\explicacion1\prog.c
+	"prog.h"
+
+1599850700 c:\users\jorge\documents\curso programacion\primercuatrimestrejac\explicacion1\prog.h
+	<stdio.h>
+
+1599850819 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\explicacion1\main.c
+	<stdlib.h>
+	"prog.h"
+

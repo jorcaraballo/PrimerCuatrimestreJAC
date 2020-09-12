@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599767458 source:c:\users\jorge\documents\curso programacion\primercuatrimestrejac\ejerciciocadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
